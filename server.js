@@ -1,7 +1,7 @@
 // Pull in required dependencies
 var express = require('express');
-var bodyParser = require('body-parser');
 var path = require('path');
+var bodyParser = require('body-parser');
 
 // Configure the Express application
 var app = express();
