@@ -7,6 +7,10 @@ body {
     flex-direction: column;
 }
 
+.backgroundAccent {
+    background: black;
+}
+
 header {
     height: 100px;
 }
