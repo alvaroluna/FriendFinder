@@ -1,7 +1,7 @@
 // Data structure that will store the friends data
 var friendsArray = [{
         name: 'Luis',
-        photo: '../app/images/luisShiba.jpg',
+        photo: '../data/images/luisShiba.jpg',
         scores: [
             '1',
             '5',
@@ -17,7 +17,7 @@ var friendsArray = [{
     },
     {
         name: 'Julia',
-        photo: '../app/images/juliaShiba.jpg',
+        photo: '../data/images/juliaShiba.jpg',
         scores: [
             '2',
             '4',
@@ -33,7 +33,7 @@ var friendsArray = [{
     },
     {
         name: 'Cassandra',
-        photo: '../app/images/cassandraShiba.png',
+        photo: '../data/images/cassandraShiba.png',
         scores: [
             '4',
             '3',
@@ -49,7 +49,7 @@ var friendsArray = [{
     },
     {
         name: 'Carmela',
-        photo: '../app/images/carmelaShiba.jpg',
+        photo: '../data/images/carmelaShiba.jpg',
         scores: [
             '5',
             '1',
@@ -65,7 +65,7 @@ var friendsArray = [{
     },
     {
         name: 'Jade',
-        photo: '../app/images/jadeShiba.jpg',
+        photo: '../data/images/jadeShiba.jpg',
         scores: [
             '1',
             '1',
@@ -81,7 +81,7 @@ var friendsArray = [{
     },
     {
         name: 'Aggie',
-        photo: '../app/images/aggieShiba.jpg',
+        photo: '../data/images/aggieShiba.jpg',
         scores: [
             '1',
             '1',
@@ -97,7 +97,7 @@ var friendsArray = [{
     },
     {
         name: 'Mario',
-        photo: '../app/images/marioShiba.jpg',
+        photo: '../data/images/marioShiba.jpg',
         scores: [
             '5',
             '4',
@@ -113,7 +113,7 @@ var friendsArray = [{
     },
     {
         name: 'Yesenia',
-        photo: '../app/images/yeseniaShiba',
+        photo: '../data/images/yeseniaShiba',
         scores: [
             '5',
             '2',
@@ -129,7 +129,7 @@ var friendsArray = [{
     },
     {
         name: 'Olivia',
-        photo: '../app/images/oliviaShiba.jpg',
+        photo: '../data/images/oliviaShiba.jpg',
         scores: [
             '5',
             '5',
@@ -145,7 +145,7 @@ var friendsArray = [{
     },
     {
         name: 'Cinnamon',
-        photo: '../app/images/cinnamonShiba.jpg',
+        photo: '../data/images/cinnamonShiba.jpg',
         scores: [
             '1',
             '1',
